@@ -123,6 +123,10 @@ textarea{
     padding-left: 9%;
 }
 
-icon-items li{
-    float: right;
+.icon-items{
+    padding-left: 23%;
+}
+
+.contact-text{
+    color: black;
 }
