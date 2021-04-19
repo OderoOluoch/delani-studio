@@ -4,7 +4,7 @@
 Odero Oluoch
 
 ### Project Description
-This is a website that is based on the Ghanian Akans naming system.The web interface asks the user to input his or her birthday, select the gender then proceeds to submit the data to get the would have been Akhan names.
+This is a clone of the Delani picture based project, that is taken to be of creative desing. 
 
 
 ### Prerequisities
@@ -15,7 +15,7 @@ You can install it with the following command in your terminal.
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-2. Use this command to clone `$ git clone https://github.com/OderoOluoch/akan.git`
+2. Use this command to clone `$ git clone https://github.com/OderoOluoch/delani-studio.git`
 3. This will clone the repositoty into your local folder
  __Enjoy :)__
 
@@ -25,35 +25,32 @@ To access this project on your local files, you can clone it using these steps
 3. Git
 4. JAVASCRIPT
 5. BOOTSRAP
+6. jQuery
 
 ### BDD
 | The web, on opening, displays the contents, loads the forms and images |
 
 | The web displays styled items, neatly arranged. |
 
-| The form on the web allows the user to click in the calendar to select date with the following inputs|
+| The form on the web allows the user to click in the descriptions of services to see the servise offered|
 
-        | Inputs | Description |
-        |:---        |          ---: |
-
-        | Year   | The year  ``eg 2021``  |
-
-        | Month  | The month of the year ``eg 12``  |
-
-        | Date   | The date of the month ``eg 15`` |
+       
 
 The site display error on the follwing events
+        Hover for more details
+
         | Inputs              | Description      |
 
         |:---            ---: |:---          ---:|
 
-        | Year month or date  | Empty submission | ``ensure all entries are filled correctly``  |
+        | Name | Email | Message | ``ensure all entries are filled correctly``  |
         
-The site allows the user to clear inputs by clicking on the clear button
+The site allows the user to submit as to subscribe to the mailing system. 
     
 
 ### Live Site
-View [Live] (https://oderooluoch.github.io/akan/)
+View [Live](https://oderooluoch.github.io/delani-studio/)
+
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
