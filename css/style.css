@@ -103,6 +103,11 @@ textarea{
     height: 800px;
 }
 
+input {
+    border-style: solid;
+    border-width: 4px;
+  }
+
 .contact-text{
     color: white;
     text-align: center;
