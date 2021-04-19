@@ -134,14 +134,58 @@ textarea{
 
 
 @media screen and (max-width: 992px) {
-    body {
-      background-color: blue;
+    .logo{
+        position: absolute;
+        padding-top: 18%;
+        padding-left: 50%;
+    }
+    .intro-header{
+        color: white;
+        text-align: center;
+        position: absolute;
+        padding-top: 30%;
+        padding-left: 32%;
+        font-size:100px;
+    }
+    .intro-text{
+        color: white;
+        position: absolute;
+        padding-top: 39%;
+        padding-left: 20%;
+        font-size: smaller;
+    }
+    .togle-menu{
+        padding-left: 50%;
+        position: absolute;
+        bottom: 2%;
     }
   }
   
   /* On screens that are 600px or less, set the background color to olive */
   @media screen and (max-width: 600px) {
-    body {
-      background-color: olive;
+    .logo{
+        position: absolute;
+        padding-top: 18%;
+        padding-left: 50%;
+    }
+    .intro-header{
+        color: white;
+        text-align: center;
+        position: absolute;
+        padding-top: 30%;
+        padding-left: 32%;
+        font-size:100px;
+    }
+    .intro-text{
+        color: white;
+        position: absolute;
+        padding-top: 39%;
+        padding-left: 20%;
+        font-size: smaller;
+    }
+    .togle-menu{
+        padding-left: 50%;
+        position: absolute;
+        bottom: 2%;
     }
   }
