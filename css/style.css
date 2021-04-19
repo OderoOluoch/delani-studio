@@ -86,3 +86,9 @@ body{
     padding: 5%;
     margin: 5%;
 }
+
+.form{
+    background-image: url('../images/backgrounds/c_image.jpg');
+    height: 500px;
+    background-size: cover;
+}
