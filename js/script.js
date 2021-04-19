@@ -36,6 +36,17 @@ $(document).ready(function(){
 })
 
 
+$(document).ready(function(){
+    $("#ubuntu").hover(function(){
+        $(".pot").css("opacity",0.3)
+        $(".carier-text").css("opacity",1)
+    },
+    function(){
+        $(".pot").css("opacity",1)
+        $(".carier-text").css("opacity",0)
+    })
+})
+
 
 
 
