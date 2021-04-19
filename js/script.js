@@ -36,8 +36,6 @@ $(document).ready(function(){
 })
 
 
-$(document).ready(function(){
-    $("#img-Hov").hover(function(){
-        alert("Hoverr")
-    })
-})
+
+
+
