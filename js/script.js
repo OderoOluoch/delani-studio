@@ -9,3 +9,9 @@ $(document).ready(
         $("#dev").toggle(1000)
     })
 )
+
+$(document).ready(
+    $("#prod-img").click(function(){
+        $("#prod").toggle(1000)
+    })
+)
