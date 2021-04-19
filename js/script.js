@@ -139,3 +139,21 @@ $(document).ready(function(){
         $(".carier-text-8").css("opacity",0)
     })
 })
+
+
+$(document).ready(function(){
+    $("#submit").click(function(){
+        let name = $("#name").val();
+        let email = $("#email").val();
+        let message = $("#comment").val();
+    
+        if(name,email, message == ''){
+         alert("Fill all the field entries to make a complete subscription")
+        }
+        else {
+            alert(`Greetings ${name}! You have just joined the best Mailing list ever! Be sure to keep an eye on ${email} for the best offers from us.`);
+        }
+        
+    })
+})
+
