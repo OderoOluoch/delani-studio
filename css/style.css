@@ -2,3 +2,10 @@ body{
     max-width: 100%;
     overflow-x: hidden;
 } 
+.intro{
+    position: relative;
+    background-image: url('../images/backgrounds/h_img.jpg');
+    height: 700px;
+    background-size: cover;
+    /* object-fit: cover center; */
+}
