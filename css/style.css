@@ -117,3 +117,13 @@ textarea{
 .form-div{
     padding: 5%;
 }
+
+.area{
+    padding-top: 3%;
+    padding-left: 9%;
+}
+
+
+icon-items li{
+    float: right;
+}
