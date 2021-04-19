@@ -75,3 +75,9 @@ body{
 .portfolio-text{
     text-align: center;
 }
+
+.port-content{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 5%;
+}
