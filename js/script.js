@@ -5,7 +5,7 @@ $(document).ready(
 )
 
 $(document).ready(
-    $("#design-img").click(function(){
-        $("#dtext").toggle(1000)
+    $("#dev-img").click(function(){
+        $("#dev").toggle(1000)
     })
 )
