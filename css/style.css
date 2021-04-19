@@ -9,3 +9,8 @@ body{
     background-size: cover;
     /* object-fit: cover center; */
 }
+.logo{
+    position: absolute;
+    padding-top: 18%;
+    padding-left: 50%;
+}
