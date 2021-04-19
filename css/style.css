@@ -17,3 +17,11 @@ body{
 .hoverthing{
     background-color: white;
 }
+.intro-header{
+    color: white;
+    text-align: center;
+    position: absolute;
+    padding-top: 30%;
+    padding-left: 32%;
+    font-size:100px;
+}
