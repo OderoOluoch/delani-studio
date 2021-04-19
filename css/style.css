@@ -32,3 +32,8 @@ body{
     padding-left: 20%;
     font-size: smaller;
 }
+.togle-menu{
+    padding-left: 50%;
+    position: absolute;
+    bottom: 2%;
+}
