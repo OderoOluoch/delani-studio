@@ -92,3 +92,20 @@ body{
     height: 500px;
     background-size: cover;
 }
+
+textarea{ 
+    width: 400px;
+    height: 800px;
+}
+
+.contact-text{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+}
+.form-control {
+    line-height: 2.5;
+    padding: 0px !important;
+    border-radius: 0;
+    background: none;  
+}
