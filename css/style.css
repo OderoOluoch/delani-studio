@@ -85,6 +85,11 @@ body{
     width:250px;
     padding: 5%;
     margin: 5%;
+    opacity: 1;
+  display: block;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 
 .form{
@@ -131,7 +136,10 @@ textarea{
     color: black;
 }
 
-
+.carier{
+    position: relative;
+    width: 50%;
+}
 
 
 
