@@ -45,3 +45,9 @@ body{
     margin-right: 8%;
     margin-bottom: 2%;
 }
+
+.services{
+    background-image: url('../images/backgrounds/s_image.jpg');
+    height: 350px;
+    background-size: cover;
+}
