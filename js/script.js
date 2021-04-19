@@ -12,13 +12,13 @@ $(document).ready(function(){
 
 
 $(document).ready(function(){
-    $("#dtext").hide()
-    $("#design-img").click(function(){
-        $("#dtext").show(1000);
-        $("#design-img").hide();
-        $("#dtext").click(function(){
-            $("#design-img").show()
-            $("#dtext").hide()
+    $("#dev").hide()
+    $("#dev-img").click(function(){
+        $("#dev").show(1000);
+        $("#dev-img").hide();
+        $("#dev").click(function(){
+            $("#dev-img").show()
+            $("#dev").hide()
         })
     })
 })
