@@ -25,3 +25,10 @@ body{
     padding-left: 32%;
     font-size:100px;
 }
+.intro-text{
+    color: white;
+    position: absolute;
+    padding-top: 39%;
+    padding-left: 20%;
+    font-size: smaller;
+}
