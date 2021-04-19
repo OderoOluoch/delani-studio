@@ -51,3 +51,10 @@ body{
     height: 350px;
     background-size: cover;
 }
+
+.serive-text{
+    padding-top: 8%;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+}
